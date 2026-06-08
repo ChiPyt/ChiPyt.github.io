@@ -1,8 +1,6 @@
-<p> Index.html is the main file for my website <p>
- <p>Scotland.html is a subwebsite created for one of my travel blog entries about Scotland. <p>
-<p> Faroes.html is a subwebsite created for one of my travel blog entries about the Faroe Islands.</p>
-<p> Taiwan.html is a subwebsite created for one of my travel blog entries about Taiwan.</p>
-<p> Costa-rica.html is a subwebsite created for one of my travel blog entries about Costa Rica.</p>
-<p> Georgia.html is a subwebsite created for one of my travel blog entries about Georgia.</p>
-<p> China.html is a subwebsite for my travel blog entries about China and Hong Kong.</p>
+<p> Index.html is the main file for my website </p>
+ <p>travel-blog contains all the html files for my travel blogs, named by country. </p>
+  <p> recipes contains my html recipe files. </p>
+   <p> science-communication contains my science communication html files</p>
+    <p> theses contains the pdf files for my theses. </p>
 <p>Images contains the images for my website.</p>
